@@ -30,6 +30,7 @@
 </div>
 <br/>
 
+<div align="center">
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
     <img src="https://img.icons8.com/fluency/48/000000/global-warming.png" alt="Globe" width="30px" style="margin-right: 8px;"/>
     <strong style="font-size: 1.5em;">Let's Stay Connected:</strong>
