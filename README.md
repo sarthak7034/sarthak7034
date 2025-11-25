@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://img.icons8.com/fluency/48/000000/waving-hand-sign-lighter-skin-tone.png" alt="Waving Hand" width="30px"/> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   Hi, I'm Sarthak!
   <img align="right" src="https://komarev.com/ghpvc/?username=sarthak7034" alt="GitHub profile views counter">
 </h1>
