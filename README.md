@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1>
+  <img src="https://img.icons8.com/fluency/48/000000/waving-hand-sign-lighter-skin-tone.png" alt="Waving Hand" width="30px"/> 
+  Hi, I'm Sarthak!
+  <img align="right" src="https://komarev.com/ghpvc/?username=sarthak7034" alt="GitHub profile views counter">
+</h1>
 
-<!--
-**sarthak7034/sarthak7034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="200px" align="right" alt="Coder animation"/>
+</div>
 
-Here are some ideas to get you started:
+<ul>
+  <li>
+    <img src="https://img.icons8.com/fluency/48/000000/map-pin.png" alt="Location" width="25px" align="center" /> Based in <strong>India</strong>
+  </li>
+  <li>
+    <img src="https://img.icons8.com/fluency/48/000000/mail.png" alt="Email" width="25px" align="center" /> Contact me @: <a href="mailto:sarthak7034@zohomail.in"><strong>sarthak7034@zohomail.in</strong></a>
+  </li>
+  <li>
+    <img src="https://img.icons8.com/fluency/48/000000/brain.png" alt="Learning" width="25px" align="center" /> Currently Learning <strong>AWS</strong>
+  </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="right"/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+  
+## <div><img src="https://img.icons8.com/fluency/48/000000/global-warming.png" alt="Globe" width="30px" align="center" /> Let's Stay Connected:</div>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-ghosh-85762bb6/) 
+
+## <div><img src="https://img.icons8.com/fluency/48/000000/laptop-coding.png" width="30px" align="center" alt="Laptop" /> Technical Skills:</div>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)
+
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
+
+<a href="https://github.com/sarthak7034" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>
