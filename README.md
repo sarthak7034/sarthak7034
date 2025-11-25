@@ -30,8 +30,10 @@
 </div>
 <br/>
 
-<div align="center">
-  <div><img src="https://img.icons8.com/fluency/48/000000/global-warming.png" alt="Globe" width="30px" align="center" /> Let's Stay Connected:</div>
+<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+    <img src="https://img.icons8.com/fluency/48/000000/global-warming.png" alt="Globe" width="30px" style="margin-right: 8px;"/>
+    <strong style="font-size: 1.5em;">Let's Stay Connected:</strong>
+  </div>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-ghosh-85762bb6/) 
 </div>
