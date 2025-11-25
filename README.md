@@ -34,6 +34,8 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-ghosh-85762bb6/) 
 
+---
+
 ## <div><img src="https://img.icons8.com/fluency/48/000000/laptop-coding.png" width="30px" align="center" alt="Laptop" /> Technical Skills:</div>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -50,7 +52,7 @@
 
 <br/>
 
-![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+**<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139aa8e294b0.gif" alt="Divider" />**
 
 <br/>
 
